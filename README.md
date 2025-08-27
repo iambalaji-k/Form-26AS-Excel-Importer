@@ -61,8 +61,7 @@ This **macro-enabled Excel template (`.xlsm`)** leverages the power of **Power Q
    - Enable **Macros / Content** when prompted.  
    - Click **“Import 26AS Text File”** → select your extracted text file.  
    - ✅ Done! The tool will parse and load your data automatically.
-   -   
-It will be useful for TDS reconciliation process.
+   - It will be useful for TDS reconciliation process.
 ---
 
 ## 🤝 Contributing
