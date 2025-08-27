@@ -36,6 +36,12 @@ This **macro-enabled Excel template (`.xlsm`)** leverages the power of **Power Q
 - **Form 26AS text file** downloaded from the TRACES portal.  
 
 ---
+## 📥 Download
+
+Get the latest release from the [Releases Page](https://github.com/iambalaji-k/Form-26AS-Excel-Importer/releases).
+➡️ Direct Download (v1.0.0): [Form-26AS-Excel-Importer.xlsm](https://github.com/iambalaji-k/Form-26AS-Excel-Importer/releases/download/v1.0.0/Form-26AS-Excel-Importer.xlsm)
+
+---
 
 ## 🚀 Instructions for Use
 
