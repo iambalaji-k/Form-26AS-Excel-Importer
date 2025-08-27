@@ -67,7 +67,7 @@ It will be useful for TDS reconciliation process.
 
 ## 🤝 Contributing
 Got feedback or ideas?  
-- [Open an Issue](https://github.com/imabalaji-k/Form-26AS-Excel-Importer/issues)  
+- [Open an Issue](https://github.com/iambalaji-k/Form-26AS-Excel-Importer/issues)  
 - Suggest improvements, report bugs, or ask questions!  
 
 ---
